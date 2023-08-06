@@ -6,5 +6,12 @@ Dikembangkan oleh:
 Damar Satria Buana, Rafi Adi Pramana, M Haidar Alfathin
 
 ## Overview
+![ss-jaheet](https://github.com/haidarfathin/jaheet/assets/24749494/9f2d5ede-1cae-4ac1-b508-5f1b0aff942a)
+<br>
+
+https://github.com/haidarfathin/jaheet/assets/24749494/405523bf-0533-4575-a249-e6e3c3fc4c23
+
+
+
 
  
