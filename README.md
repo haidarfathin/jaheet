@@ -1,16 +1,10 @@
-# jahitin
+# Jaheet
+Aplikasi E-commerce dan One-stop-business dimana Anda dapat mencari dan memesan jasa jahit dengan cepat dan praktis! <br><br>
+Dibuat menggunakan Firebase dan Google Maps API. Fitur utama aplikasi ini adalah dengan menggunakan Google Maps API dapat mencari penjahit terdekat dari pengguna. Berhasil memperoleh penghargaan <b>BEST IMPLEMENTATION</b> pada ajang KMIPN V 2023 Bidang Hackaton di Surabaya (2023)
 
-A new Flutter project.
+Dikembangkan oleh: 
+Damar Satria Buana, Rafi Adi Pramana, M Haidar Alfathin
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ 
